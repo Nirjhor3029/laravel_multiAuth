@@ -1,0 +1,7 @@
+1.  page_access_token : EAALT2DEhXSEBAGNdbM513TDgpCIGxbhgPHzgiJA50ZAbEw0QJifqj4GHgObqcbH0V5nfA7BsZBeCE0cCICQVZBI49aZAUD4ZBY1eyZAt5W97EakgW9VtCqWZBu5eiD2O8bhKiZBlldiRAlomhkk2VRIeYeMZBZCCKW36QSjWWL2hTVnwZDZD
+
+
+2. Problem: that should check =>
+    a.  remember me click: never logout again.
+
+3.
